@@ -1,4 +1,4 @@
-Hi 👋 My name is Hi my name is Nina Nordbo
+👋 Hi my name is Nina Nordbo
 ==========================================
 
 A creative full-stack developer or a unicorn if you wish.
