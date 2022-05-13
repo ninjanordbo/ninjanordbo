@@ -12,7 +12,7 @@ I'm a full-stack developer with experience in the creative and graphic design in
 * ⚡  As a human, I enjoy spending time with my four-legged family, cooking amazing plant-based meals while listening to a multitude of music genres.
 
 Let's connect!
-==========================================
+====================
 
 ### Socials
 
