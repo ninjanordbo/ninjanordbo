@@ -1,4 +1,4 @@
-<a href='https://www.ninjanordbo.dev/' target='_blank'><img src='https://imgur.com/a/iuyU94e' border='0' alt='header2'/></a>
+<a href="https://imgur.com/mcakNXg"><img src="https://i.imgur.com/mcakNXgh.png" title="source: imgur.com" /></a></a>
 
 A creative full-stack developer or a unicorn if you wish.
 ---------------------------------------------------------
