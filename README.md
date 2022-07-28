@@ -1,4 +1,5 @@
-<a href="https://imgur.com/mcakNXg"><img src="https://i.imgur.com/mcakNXgh.png" title="source: imgur.com" /></a></a>
+
+![](croppedheader.gif)
 
 A creative full-stack developer or a unicorn if you wish.
 ---------------------------------------------------------
