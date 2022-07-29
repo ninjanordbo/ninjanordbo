@@ -13,6 +13,8 @@ As a human, I enjoy spending time with my four-legged family, cooking amazing pl
 Check out recent projects
 ---------------------------------------------------------
 
+![](symbolconnect.gif)
+
 [![fullpage.jpg](https://i.postimg.cc/jSghjVNZ/fullpage.jpg)](https://postimg.cc/bZnn6Bmt)
 
 Let's connect!
