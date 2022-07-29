@@ -15,6 +15,10 @@ Check out recent projects
 
 ![](symbolconnect.gif)
 
+<p align="center"> </a> <https://symbolconnect.netlify.app/about.html" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="150" height="auto" /></a> <a </a> 
+
+<a href="https://github.com/ninjanordbo/SymbolConnect" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/repo.svg" width="150" height="auto" /></a></p>
+
 [![fullpage.jpg](https://i.postimg.cc/jSghjVNZ/fullpage.jpg)](https://postimg.cc/bZnn6Bmt)
 
 Let's connect!
