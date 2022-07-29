@@ -15,9 +15,15 @@ Check out recent projects
 
 ![](symbolconnect.gif)
 
-<p align="center"> </a> <https://symbolconnect.netlify.app/about.html" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="150" height="auto" /></a> <a </a> 
+Symbolconnect was made as a tool for aiding communication with children struggling to use regualar language.
 
-<a href="https://github.com/ninjanordbo/SymbolConnect" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/repo.svg" width="150" height="auto" /></a></p>
+<p align="left"> </a> <a href="https://symbolconnect.netlify.app/about.html" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="150" height="auto" /></a> <a </a> <a href="https://www.github.com/ninjanordbo/SymbolConnect" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/repo.svg" width="150" height="auto" /></a></p>
+
+
+
+<p align="center"> </a> https://symbolconnect.netlify.app/about.html" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="150" height="auto" /></a> <a </a> 
+
+<p align="center"><a href="https://github.com/ninjanordbo/SymbolConnect" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/repo.svg" width="150" height="auto" /></a></p>
 
 [![fullpage.jpg](https://i.postimg.cc/jSghjVNZ/fullpage.jpg)](https://postimg.cc/bZnn6Bmt)
 
