@@ -4,13 +4,16 @@
 A creative full-stack developer or a unicorn if you wish.
 ---------------------------------------------------------
 
-I'm a full-stack developer with experience in the creative and graphic design industries, who is based in Norway. I started out as a photographer, and then moved into graphic design for digital and print media. My curiosity started as a child, through my dad who is an engineer. I was very excited to experience the many possibilities of building things from scratch. I never really got stuck on a single technology, and was always excited to learn something new or improve my skills in whatever field I was working in. This curiosity eventually drove me towards software development. As a developer, I'm constantly looking for emerging concepts and trends by analysing how things move, connect and flow. When starting a new project, I utilise empathy to try to understand the “who” we are designing for, the “why” of what we are trying to do, and the “what” of the thing we are trying to solve. For me it is extremely important that everything that I do has a clear purpose—one that is not just focused on user experience, but also on human connections.With every new project I take on, I am looking to challenge myself by learning something new or by acquiring new skills in order to find innovative solutions that address real problems.
+I'm a full-stack developer with experience in the creative and graphic design industries, who is based in Norway. I started out as a photographer, and then moved into graphic design for digital and print media. 
 
-* 🌍  I'm based in Norway
-* ✉️  You can contact me at [n.nordbo@gmail.com](mailto:n.nordbo@gmail.com)
-* 🧠  I'm learning Node & React
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  As a human, I enjoy spending time with my four-legged family, cooking amazing plant-based meals while listening to a multitude of music genres.
+As a developer, I'm constantly looking for emerging concepts and trends by analysing how things move, connect and flow. For me it is extremely important that everything that I do has a clear purpose, one that is not just focused on user experience, but also on human connections. With every new project I take on, I am looking to challenge myself by learning something new or by acquiring new skills in order to find innovative solutions that address real problems.
+
+As a human, I enjoy spending time with my four-legged family, cooking amazing plant-based meals while listening to music.
+
+Check out recent projects
+---------------------------------------------------------
+
+[![fullpage.jpg](https://i.postimg.cc/jSghjVNZ/fullpage.jpg)](https://postimg.cc/bZnn6Bmt)
 
 Let's connect!
 ---------------------------------------------------------
