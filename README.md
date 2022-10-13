@@ -10,6 +10,10 @@ As a developer, I'm constantly looking for emerging concepts and trends by analy
 
 As a human, I enjoy spending time with my four-legged family, cooking amazing plant-based meals while listening to music.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ninjanordbo&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
 Recent work
 ---------------------------------------------------------
 
