@@ -10,11 +10,6 @@ As a developer, I'm constantly looking for emerging concepts and trends by analy
 
 As a human, I enjoy spending time with my four-legged family, cooking amazing plant-based meals while listening to music.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ninjanordbo&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ninjanordbo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 Recent work
 ---------------------------------------------------------
 
@@ -29,6 +24,10 @@ Symbolconnect was made as a tool for aiding communication with children struggli
 Per Ivans Catering full website development. 
 
 <p align="left"> </a> <a href="https://www.perivanscatering.no" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="100" height="auto" /></a> <a </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ninjanordbo&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ninjanordbo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Let's connect!
 ---------------------------------------------------------
