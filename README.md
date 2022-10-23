@@ -18,7 +18,7 @@ Full stack recipe app. User can log in and share recipes.
 
 ![](foodo.gif)
 
-node.js || express || mongodb || mongoose || cloudinary
+node.js || express || mongodb || mongoose || cloudinary || tailwind
 
 # Translocate
 
