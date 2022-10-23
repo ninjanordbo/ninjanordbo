@@ -1,7 +1,7 @@
 
 ![](croppedheader.gif)
 
-A creative full-stack developer or a unicorn if you wish.
+# A creative full-stack developer or a unicorn if you wish.
 ---------------------------------------------------------
 
 I'm a full-stack developer with experience in the creative and graphic design industries, who is based in Norway. I started out as a photographer, and then moved into graphic design for digital and print media. 
@@ -12,7 +12,13 @@ As a human, I enjoy spending time with my four-legged family, cooking amazing pl
 
 # Recent work
 ---------------------------------------------------------
+# Foodo
 
+Full stack recipe app. User can log in and share recipes. 
+
+![](foodo.gif)
+
+node.js || express || mongodb || mongoose || cloudinary
 
 # Translocate
 
