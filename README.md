@@ -16,7 +16,7 @@ As a human, I enjoy spending time with my four-legged family, cooking amazing pl
 
 Full stack recipe app. User can log in and share recipes. 
 
- ![](foodo2.gif) ![](foodo.gif)
+![](foodo.gif)
 
 node.js || express || mongodb || mongoose || cloudinary || tailwind
 
