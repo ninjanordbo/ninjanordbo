@@ -4,11 +4,17 @@
 # A creative full-stack developer or a unicorn if you wish.
 ---------------------------------------------------------
 
-I'm a full-stack developer with experience in the creative and graphic design industries, who is based in Norway. I started out as a photographer, and then moved into graphic design for digital and print media. 
+I'm a developer and designer who spends a huge chunk of my time down internet rabbit holes in search for inspiration or answers while hanging out with my dogs.
 
-As a developer, I'm constantly looking for emerging concepts and trends by analysing how things move, connect and flow. For me it is extremely important that everything that I do has a clear purpose, one that is not just focused on user experience, but also on human connections. With every new project I take on, I am looking to challenge myself by learning something new or by acquiring new skills in order to find innovative solutions that address real problems.
 
-As a human, I enjoy spending time with my four-legged family, cooking amazing plant-based meals while listening to music.
+At the heart, I am a problem solver who enjoys creating meaningful experiences by focusing on what matters most. I like to dive into the details and understand the big picture, while simultaneously pushing boundaries to elevate everything I do.
+
+
+Nothing lifts my spirits more than to experiment across digital platforms, leading with my curiosity. I'm passionate about accessibility, storytelling and the power of creating digital experiences that make emotional connections.
+
+
+The ultimate thrill is fixing a bug that has kept me awake
+or totally rocking a recipe I've been dying to nail.
 
 # Recent work
 ---------------------------------------------------------
