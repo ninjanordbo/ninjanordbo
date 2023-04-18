@@ -53,7 +53,6 @@ Per Ivans Catering full website development.
 
 <p align="left"> </a> <a href="https://www.perivanscatering.no" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="100" height="auto" /></a> <a </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ninjanordbo&bg_color=1d1117&color=31d3d1&line=73e280&point=2c6d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Let's connect!
 ---------------------------------------------------------
