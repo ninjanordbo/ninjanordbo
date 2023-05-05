@@ -1,7 +1,6 @@
 
-![](croppedheader.gif)
 
-# A creative full-stack developer or a unicorn if you wish.
+# A creative developer with UX/UI skills.
 ---------------------------------------------------------
 
 I'm a developer and designer who spends a huge chunk of my time down internet rabbit holes in search for inspiration or answers while hanging out with my dogs.
