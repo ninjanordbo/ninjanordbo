@@ -1,9 +1,9 @@
 
 [![Linked-In-Banner.png](https://i.postimg.cc/nVdzrmG7/Linked-In-Banner.png)](https://postimg.cc/PNwhFPcr)
-# A creative developer with UX/UI skills.
+# UX Developer
 ---------------------------------------------------------
 
-I'm a developer and designer who spends a huge chunk of my time down internet rabbit holes in search for inspiration or answers while hanging out with my dogs.
+I'm a UX Developer who spends a huge chunk of my time down internet rabbit holes in search for inspiration or answers while hanging out with my dogs.
 
 
 At the heart, I am a problem solver who enjoys creating meaningful experiences by focusing on what matters most. I like to dive into the details and understand the big picture, while simultaneously pushing boundaries to elevate everything I do.
