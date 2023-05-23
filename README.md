@@ -17,6 +17,14 @@ or totally rocking a recipe I've been dying to nail.
 
 # Recent work
 ---------------------------------------------------------
+# Full Gnu Media
+
+A digital agency website for Full Gnu Media. The website should draw attention while highlighting their services.
+
+![](FullGnuMedia.gif)
+
+vue.js || tailwind || cloudinary || animate.js 
+
 # Foodo
 
 Full stack recipe app. User can log in and share recipes. 
