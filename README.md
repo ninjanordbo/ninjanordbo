@@ -22,6 +22,16 @@ or totally rocking a recipe I've been dying to nail.
 
 # Recent work
 ---------------------------------------------------------
+# Flokki 
+
+Product design and frontend development for Norwegian medtech company launching Norways first digital vaccine service.
+
+[![Screenshot-2023-10-13-at-16-22-57.jpg](https://i.postimg.cc/76j64YjT/Screenshot-2023-10-13-at-16-22-57.jpg)](https://postimg.cc/N97Y7Ysg)
+
+figma || webflow || svelte || tailwind 
+
+
+---------------------------------------------------------
 # Full Gnu Media
 
 A digital agency website for Full Gnu Media. The website should draw attention while highlighting their services.
@@ -38,15 +48,7 @@ Full stack recipe app. User can log in and share recipes.
 
 node.js || express || mongodb || mongoose || cloudinary || tailwind
 
-# Translocate
 
-A fullstack carpooling app where users can connect to share rides with each other. 
-
-[![Screenshot-2022-10-19-at-22-24-44.jpg](https://i.postimg.cc/Gp9nnZdD/Screenshot-2022-10-19-at-22-24-44.jpg)](https://postimg.cc/SX0vW1XQ)
-
-node.js || express || mongodb || mongoose
-
-<p align="left"> </a> <a href="https://translocate.cyclic.app/" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/website.svg" width="100" height="auto" /></a> <a </a> <a href="https://github.com/ninjanordbo/translocate-mvc" target="_blank" rel="noreferrer"><img src="https://github.com/ninjanordbo/ninjanordbo/blob/main/repo.svg" width="100" height="auto" /></a></p>
 
 # Symbolconnect
 
