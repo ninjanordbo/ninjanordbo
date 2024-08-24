@@ -1,5 +1,5 @@
 
-[![Github-Banner.jpg](https://i.postimg.cc/MGmrVFH9/Github-Banner.jpg)](https://postimg.cc/wt3VdFhN)
+[![Linkedin.png](https://i.postimg.cc/LsLQ9z6x/Linkedin.png)](https://postimg.cc/McZmtfBB)
 # UX Developer
 ---------------------------------------------------------
 
