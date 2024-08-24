@@ -3,17 +3,15 @@
 # UX Developer
 ---------------------------------------------------------
 
-I'm a UX Developer who spends a huge chunk of my time down internet rabbit holes in search for inspiration or answers while hanging out with my dogs.
+I’m ninjanordbo, a freelance software experience
+designer & brand strategist from Norway. 
 
+I don't just build products. I create digital
+experiences that captivate and convert, but also
+spark joy and excitement. 
 
-At the heart, I am a problem solver who enjoys creating meaningful experiences by focusing on what matters most. I like to dive into the details and understand the big picture, while simultaneously pushing boundaries to elevate everything I do.
-
-
-Nothing lifts my spirits more than to experiment across digital platforms, leading with my curiosity. I'm passionate about accessibility, storytelling and the power of creating digital experiences that make emotional connections.
-
-
-The ultimate thrill is fixing a bug that has kept me awake
-or totally rocking a recipe I've been dying to nail.
+I'm your go-to partner for creating software that
+doesn't just work - it wows.
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img 
