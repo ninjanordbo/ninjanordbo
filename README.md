@@ -1,5 +1,5 @@
 
-[![Linkedin.png](https://i.postimg.cc/LsLQ9z6x/Linkedin.png)](https://postimg.cc/McZmtfBB)
+[![Linkedin.png]([https://i.postimg.cc/LsLQ9z6x/Linkedin.png)](https://postimg.cc/McZmtfBB](https://ninjanordbo.github.io/img-host//Linkedin.png))
 # UX Developer
 ---------------------------------------------------------
 
