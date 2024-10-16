@@ -24,7 +24,7 @@ doesn't just work - it wows.
 
 Product design and frontend development for Norwegian medtech company launching Norways first digital vaccine service.
 
-[![Screenshot-2023-10-13-at-16-22-57.jpg](https://i.postimg.cc/76j64YjT/Screenshot-2023-10-13-at-16-22-57.jpg)](https://postimg.cc/N97Y7Ysg)
+![Flokki](Flokki.JPEG)
 
 figma || webflow || svelte || tailwind 
 
